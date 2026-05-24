@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 🎓 **Education** 
  - Accr. in Brigham Young University (2023 - 2026)
- - N.D. in University of Colorodo, Boulders (2025)
  - Accr. in North Dakota Univeristy (2025 - 2027)
- - B.SCi. in Applied Physics{PAS}, UofA (2025 - 2029)
 
 📫 **Contact**: ZManF@Liminellax.com
