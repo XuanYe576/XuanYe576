@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ## --- ---
 -->
 - 👋 Hi, I’m @XuanYe576
-- 👀 I’m interested in ... Space
+- 👀 I’m interested in ... Space？RFIC THz High speed IC comms to rf comms
 
 - 🔭 I’m currently working on ... Antenna evolution/optimization algorithm
 - 🌱 I’m currently learning ... WiFi Sensing reconstruction
@@ -28,5 +28,6 @@ Here are some ideas to get you started:
 🎓 **Education** 
  - Accr. in Brigham Young University (2023 - 2026)
  - Accr. in North Dakota Univeristy (2025 - 2027)
+ - Very prestigious institute(not to disclose) 
 
-📫 **Contact**: ZManF@Liminellax.com
+📫 **Contact**: developers@Liminellax.com
