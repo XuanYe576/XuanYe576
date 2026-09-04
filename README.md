@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 ![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=XuanYe576&show_icons=true)
 
-🎓 **Education** 
+🎓 **Education** @2028`9
  - Accr. in Brigham Young University (2023 - 2026)
  - Accr. in North Dakota Univeristy (2025 - 2027)
  - Very prestigious institute(not to disclose) 
