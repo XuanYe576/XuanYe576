@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiiiiii there 👋
 
 <!---
 XuanYe576/XuanYe576 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,13 +10,13 @@ Here are some ideas to get you started:
 ## --- ---
 -->
 - 👋 Hi, I’m @XuanYe576
-- 👀 I’m interested in ... Space？RFIC THz High speed IC comms to rf comms
+- 👀 I’m interested in ... Space？RFIC THz High speed IC Communications
 
 - 🔭 I’m currently working on ... Antenna evolution/optimization algorithm
 - 🌱 I’m currently learning ... WiFi Sensing reconstruction
-- 👯 I’m looking to collaborate on ... Make-a-thon/Hack-athon in RF(Know how to make PCB with copper and other)
-- 🤔 I’m looking for help with ... I/Q stream data flow analysing 
-- 💬 Ask me about ... Photonics Microwave in terms of Condensed Matter Physics
+- 👯 I’m looking to collaborate on ... RF Signal Processing/Physics Informed Neural Network/Semiconductor
+- 🤔 I’m looking for help with ... Integrated Reconfigurable Microwave Photonics  
+- 💬 Ask me about ... Integrated Microwave Photonics/Condensed Matter Physics/RFIC
 - 📫 How to reach me: ... Developers@liminellax.com
 - 😄 Pronouns: ... I mean, I am a Male, go with that!
 - ⚡ Fun fact: ... I am an ISEF alumus
